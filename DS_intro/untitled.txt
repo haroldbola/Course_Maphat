@@ -1,0 +1,3 @@
+Numpy exercice
+
+Regression (1.2) bonus add features
