@@ -1,0 +1,2 @@
+You will have to donwload the file "GoogleNews-vectors-negative300.bin.gz" which you can easily find on the internet. Put it in resources/word_2_vec.
+https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit

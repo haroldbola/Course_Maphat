@@ -1,0 +1,1 @@
+Here you will have to download the "GoogleNews-vectors-negative300.bin.gz" file, which is easily found on the internet.
