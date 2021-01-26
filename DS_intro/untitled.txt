@@ -1,3 +1,11 @@
-Numpy exercice
+4 tree_based model: run stacked model.
+5 feature_extraction->exercice: not understood
 
-Regression (1.2) bonus add features
+To go over:
+    -Linear/Logistic regression
+    -Gradient Descent algorithm and variation (Optimization slide)
+    -PCA
+    -KMeans, KNN, DBMSCAP, GaussianMixture
+    -Tree based model, SVM
+    -Stacked model
+    
