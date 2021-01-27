@@ -8,4 +8,6 @@ To go over:
     -KMeans, KNN, DBMSCAP, GaussianMixture
     -Tree based model, SVM
     -Stacked model
+    -Deep Learning
     
+6 CNN: bug at the end
