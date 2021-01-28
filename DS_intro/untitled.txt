@@ -1,12 +1,6 @@
-4 tree_based model: run stacked model.
 5 feature_extraction->exercice: not understood
 
 To go over:
-    -Linear/Logistic regression
-    -PCA
-    -KMeans, KNN, DBMSCAP, GaussianMixture
-    -Tree based model, SVM
-    -Stacked model
     -Deep Learning: CNN, autoencoder
     
 6 CNN: bug at the end: 'Sequential' object has no attribute 'total_loss' (same problem for Ido)
