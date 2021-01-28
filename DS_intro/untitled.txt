@@ -3,11 +3,11 @@
 
 To go over:
     -Linear/Logistic regression
-    -Gradient Descent algorithm and variation (Optimization slide)
     -PCA
     -KMeans, KNN, DBMSCAP, GaussianMixture
     -Tree based model, SVM
     -Stacked model
-    -Deep Learning
+    -Deep Learning: CNN, autoencoder
     
-6 CNN: bug at the end
+6 CNN: bug at the end: 'Sequential' object has no attribute 'total_loss' (same problem for Ido)
+7 CNN transfer learning: cannot import name 'imagenet_utils' from 'keras.applications.imagenet_utils' (same problem for Ido)
